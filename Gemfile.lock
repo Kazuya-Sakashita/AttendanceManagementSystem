@@ -92,6 +92,7 @@ GEM
       devise (>= 4.8.0)
     erubi (1.10.0)
     ffi (1.15.5)
+    foreman (0.87.2)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.10.0)
@@ -260,6 +261,7 @@ DEPENDENCIES
   capybara (>= 3.26)
   devise
   devise-i18n
+  foreman
   jbuilder (~> 2.7)
   listen (~> 3.3)
   pry-rails
